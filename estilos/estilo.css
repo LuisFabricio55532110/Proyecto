@@ -1,0 +1,32 @@
+.nombre_tienda{
+    background-color: brown;
+    color:aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.portada{
+    height: 500px;
+    width: 100%;
+}
+
+table {
+    width: 100px;
+    margin: 0 auto;
+  }
+
+  #Contacto{
+      text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
